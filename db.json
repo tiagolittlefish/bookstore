@@ -1,0 +1,28 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Book1",
+      "price": 9,
+      "quantity": 1,
+      "category": "action",
+      "img": "img1"
+    },
+    {
+      "id": 2,
+      "name": "Book2",
+      "price": 11.5,
+      "quantity": 1,
+      "category": "action",
+      "img": "img2"
+    },
+    {
+      "id": 3,
+      "name": "Book3",
+      "price": 15,
+      "quantity": 1,
+      "category": "action",
+      "img": "img3"
+    }
+  ]
+}
